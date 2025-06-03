@@ -3,7 +3,7 @@
 数据集来源于https://github.com/houhongyi/RM-DATASET
 
 依赖安装：
-os：pip install os
+os：pip install os  (以下同理）
 yaml:
 torch:
 ultralytics:
